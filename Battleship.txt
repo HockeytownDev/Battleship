@@ -1,0 +1,84 @@
+Battleship Stepwise Refinement
+
+/**
+playgame()
+
+//Initialise all of the variables required to track the ships to -1
+
+//Initialise all the variable required to track the progress in the game
+
+//Take player input for the coordinates for the front of ship 1 and update the value of ship 1
+//*Get input x
+//*Get input y
+//**Update the value of the inputs to 1
+    
+//Take player input for the coordinates for the back of ship 1
+//*Get input x
+//*Get input you
+//**Update the value of the inputs to 1 and print the current board
+
+//Take player input for the coordinates for the front of ship 2
+//*Get input x
+//*Get input y 
+//**Update the value of the inputs to 1
+
+//Take player input for the coordinates for the back of ship 2
+//*Get input x
+//*Get input y
+//**Update the value of the inputs to 1 and print the current board
+
+//Generate the position of computer ships randomly until you find a valid positions
+//*Randomly generate the front of ship 1
+//**Check if position is already taken
+//*Randomly generate the back of ship 1 and make sure it's adjacent
+//*Set the values of the positions of the computer ship to 1
+//*Randomly generate the front of ship 2
+//**Check if position is already taken
+//*Randomly generate the back of ship 2 and make sure it's adjacent
+//*Set the values of the positions of the computer ship to 1
+
+//Look for a winner
+//*Take the input for the player attacking the computer's ship
+//**Check if the attack positions hit the ship
+//**If the computers ships are hit, update the computer array position of the hit to 2
+//*If all of the computer ships are hit, then declare the player as the winner
+    
+//Randomly generate attack positions for the computer
+//*If the player ships are hit, update the player array position of the hit to 2
+//**If all of the player ships are hit, then declare the computer as the winner    
+**/
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+**/

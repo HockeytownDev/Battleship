@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1529599145 source:c:\users\matt\desktop\code blocks proj\battleship\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<cstdlib>
+	<ctype.h>
+
